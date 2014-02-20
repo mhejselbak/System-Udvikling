@@ -1,11 +1,8 @@
 import java.util.Random;
 
 /**
-<<<<<<< HEAD
- * Dette er et fucking god luck.
-=======
+
  * Dette er et fucking HAHAHAHAHHAHAHAHAHAHAAHAHHAHa good luck.
->>>>>>> 48204e442af48f7d9ccc64681af8da14a7c46665
  */
 
 public static class ArrayUtil {
