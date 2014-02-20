@@ -1,7 +1,7 @@
 import java.util.Random;
 
 /**
- * Dette er et stener java program 
+ * Dette er et stenet java program 
  */
 
 public class ArrayUtil {
