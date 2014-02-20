@@ -4,7 +4,7 @@ import java.util.Random;
  * Dette er et fucking fedt java program!!
  */
 
-public class ArrayUtil {
+public static class ArrayUtil {
 	private Random generator = new Random();
 
 	public int[] randomIntArray(int length, int n) {
