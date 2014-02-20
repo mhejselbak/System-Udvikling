@@ -1,7 +1,7 @@
 import java.util.Random;
 
 /**
- * Dette er et fucking HAHAHAHAHHAHAHAHAHAHAAHAHHAHa god luck.
+ * Dette er et fucking HAHAHAHAHHAHAHAHAHAHAAHAHHAHa good luck.
  */
 
 public static class ArrayUtil {
