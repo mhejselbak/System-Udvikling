@@ -1,5 +1,8 @@
 import java.util.Random;
 
+/**
+ * Dette er et stener java program 
+ */
 
 public class ArrayUtil {
 	private static Random generator = new Random();
