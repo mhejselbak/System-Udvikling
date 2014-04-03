@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-det er ikke en test
-
-
-nej
-=======
-dette er ikke en test
->>>>>>> 9deabcbbeca23d0289ab111b0716c57f216a6ef7
